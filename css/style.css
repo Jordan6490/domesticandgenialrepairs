@@ -1889,9 +1889,7 @@ footer {
     width: 100%;
     margin: 0;
     padding: 0;
-    background: url(../images/foooter-bg.png) no-repeat;
-        background-size: auto auto;
-    background-size: 100% 100%;
+    background-color: #01425f;
 }
 .modal-dialog {
     width: 100% !important;
