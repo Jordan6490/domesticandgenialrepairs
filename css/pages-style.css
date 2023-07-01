@@ -190,7 +190,7 @@
  
 #header {
     position: relative;
-    background:#fff;
+    background: #1f2949;
     padding:0px 0 0 0;
     border-bottom:1px solid #ccc;
 }
@@ -293,7 +293,7 @@
     padding:20px 0 35px 0;
     border-bottom: none;
     margin:0 15px;
-    color: #04142b;
+    color: #ffffff;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -612,7 +612,7 @@
     display: none;
     width: 100%;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #1f294a;
     box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
 }
 

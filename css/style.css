@@ -161,7 +161,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#37c6f5', end
 /************************************
             Footer
 ************************************/
-footer{width:100%; margin:0; padding:0;background-color: #00425f;}
+footer{width:100%; margin:0; padding:0;background-color: #1f294a;}
 footer .footer-top{width:100%; margin:0; padding:50px 0; border-bottom:1px solid #353535;}
 footer .footer-top b{width:100%; margin:0 0 5px 0; padding:0 0 0 60px; display:block; color:#fff; font-size:20px; line-height:42px; font-weight:600;}
 footer .footer-top .call-icon{background:url(../images/call-icon.png) no-repeat;}
@@ -392,7 +392,7 @@ footer .footer-button:hover {color:#fff; background:#000; font-size:17px;font-we
 }
 
 
-.call-2-action-bar{width:100%; background:#00425f; margin:0 0 0px 0;}
+.call-2-action-bar{width:100%; background: #1f294a; margin:0 0 0px 0;}
 .call-2-action-bar .app-downloads{width:100%; background:#01425f url(../images/app-bg.jpg) no-repeat center center; height:220px; float:left;}
 .call-2-action-bar .app-downloads .mob-dev{margin:35px 0 0 0; float:left;}
 .call-2-action-bar .app-downloads .download-info{margin:25px 0 0 0; padding:0 40px 0 0; float:left;}
@@ -647,7 +647,7 @@ line-height: 30px;}
 .price  .get-bg a{color:#fff; font-weight:bold; font-size:16px;text-align:center; line-height:58px;}
 .price  .get-bg a:hover{color:#000;}
 .price  .personaldiv-text{padding-top:20px!important;}
-.price  .radius-bg{background: #3bc7f4; color:#fff; padding-top:20px; text-align:center;height:80px;border-radius: 0px 0px 65px 65px;}
+.price  .radius-bg{background: #1f294a; color:#fff; padding-top:20px; text-align:center;height:80px;}
 .price  .radius-bg .fa{color:#fff; font-size:19px;}
 .price  .radius-bg #price{color:#fff!important;}
 
@@ -1889,7 +1889,7 @@ footer {
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: #01425f;
+    background-color: #1f294a;
 }
 .modal-dialog {
     width: 100% !important;
@@ -2202,7 +2202,7 @@ html{overflow-x:hidden;}
 }
 
 .price .price-bg b {
-    color: #3bc7f4;
+    color: #1f294a;
     font-size: 20px!important;
 }
 
@@ -2210,7 +2210,7 @@ html{overflow-x:hidden;}
 }
 .fa-angle-up {padding-top:10px;}
 .price .price-bg b {
-    color: #3bc7f4;
+    color: #1f294a;
     font-size:18px;
 }
 
