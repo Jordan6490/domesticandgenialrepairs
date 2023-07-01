@@ -161,7 +161,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#37c6f5', end
 /************************************
             Footer
 ************************************/
-footer{width:100%; margin:0; padding:0;background:url(../images/foooter-bg.png) no-repeat; background-size:100% 100%;}
+footer{width:100%; margin:0; padding:0;background-color: #00425f;}
 footer .footer-top{width:100%; margin:0; padding:50px 0; border-bottom:1px solid #353535;}
 footer .footer-top b{width:100%; margin:0 0 5px 0; padding:0 0 0 60px; display:block; color:#fff; font-size:20px; line-height:42px; font-weight:600;}
 footer .footer-top .call-icon{background:url(../images/call-icon.png) no-repeat;}
@@ -1830,7 +1830,6 @@ footer .footer-top {
     margin: 0;
     padding: 80px 0;
     border-bottom:none;
-	 
 }
 .social-link-footer .twitter .fa {
     color: #fff;
