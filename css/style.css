@@ -671,10 +671,10 @@ text-align: center;
 display: block;
 line-height: 30px;}
 
-.client-says .client-testimonials {background:#fff;  height:300px; box-shadow:0 0 5px #000;}
-.client-says .client-testimonials  .client-testimonials {background:#1f2949;height:300px; box-shadow:0 0 5px #000;}
-.left-content {background:	#1f2949; height:300px; padding:60px 30px;}
-.right-content {background:#fff; box-shadow:0 0 5px #888; height:300px; padding:60px 30px;}
+.client-says .client-testimonials {background:#fff;   box-shadow:0 0 5px #000;}
+.client-says .client-testimonials  .client-testimonials {background:#1f2949; box-shadow:0 0 5px #000;}
+.left-content {background:	#1f2949;  padding:30px 16px;}
+.right-content {background:#fff; box-shadow:0 0 5px #888;  padding:24px 16px;}
 .right-content b{color:#1f2949; font-weight:bold;}
 
 .client-says .carousel-indicators {
@@ -893,7 +893,7 @@ background-repeat: no-repeat;
 		display: none;
 		width: 48px;
 		height: 48px;
-		background:#00425f;
+		background:#1f294a;
 		border-radius: 50%;
 		font-size: 24px;
 		line-height: 44px;
@@ -903,9 +903,13 @@ background-repeat: no-repeat;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
 	}
+
+    #scroll-up i {
+        color: #e1e558;
+    }
 	
 	#scroll-up:hover {
-		background-color: #00425f;
+		background-color: #1f294a;
 		color:#e1e558;
 	}
 	
@@ -2072,7 +2076,7 @@ background-repeat: no-repeat;
 .address-border h5{color:#000; font-size:25px; }
 .address-border p{color:#000; font-size:17px; }
 .contact-bg .contact-us {background:#1f2949;}
-.inner-menu li a:hover{color:#1f2949!important;}
+.inner-menu li a:hover{color:#1ddfdb!important;}
 @media (max-width:767px)
 {
 .contact-bg {
