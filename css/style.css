@@ -2285,3 +2285,8 @@ html{overflow-x:hidden;}
 		.footer-social {list-style:none;}
 		.footer-social li{float:left; width:50px; padding-top:8px;}
 		.footer-social li a .fa{font-size:30px;}
+
+.brand-heading img {
+    width: 125px;
+    height: 84px;
+}
