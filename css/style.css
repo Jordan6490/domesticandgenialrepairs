@@ -1530,7 +1530,7 @@ hero {
 .hero {
     position: absolute;
     top: 20%;
-    left:48%;
+    left:44%;
 	width:100%;
     z-index: 3;
     color: #fff;
@@ -1631,7 +1631,7 @@ hero {
 .hero {
     position: absolute;
     top: 28%!important;
-    left: 40%;
+    left: 44%;
     width:85%;
     z-index: 3;
     color: #fff;
