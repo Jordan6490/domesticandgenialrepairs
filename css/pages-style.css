@@ -207,7 +207,7 @@
     width:90%;
 }
 #header .login-btn a {
-    background: #3bc7f4 none repeat scroll 0 0;
+    background: #1f2949 none repeat scroll 0 0;
     border-radius: 22px;
     color: #fff;
     float: left;
@@ -222,7 +222,7 @@
     text-transform: uppercase;
 }
 #header .phone-no{margin:15px 0 20px 0; font-size:20px; font-weight:600; color:#10293d; float:right;   font-family: "Oswald",sans-serif;}
-#header .phone-no span{color:#3bc7f4; padding:0 5px 0 0;}
+#header .phone-no span{color:#1f2949; padding:0 5px 0 0;}
 
 @media (max-width: 767px) {
     
@@ -428,7 +428,7 @@
 .menu li a:hover, 
 .menu li.active > a, 
 .menu li.sfHover > a {
-    color: #3bc7f4;
+    color: #1ddfdb;
     text-decoration: none;
     outline:0;
 }
@@ -621,7 +621,7 @@
     display:block;
 }
 #header-sticky .login-btn a {
-    background: #3bc7f4 none repeat scroll 0 0;
+    background: #1f2949 none repeat scroll 0 0;
     border-radius: 22px;
     color: #fff;
     float: left;
@@ -636,7 +636,7 @@
     text-transform: uppercase;
 }
 #header-sticky .phone-no{margin:25px 0 0 0; font-size:18px; font-weight:600; color:#10293d; float:right;   font-family: "Oswald",sans-serif;}
-#header-sticky .phone-no span{color:#3bc7f4; padding:0 5px 0 0;}
+#header-sticky .phone-no span{color:#1f2949; padding:0 5px 0 0;}
 
 #header-sticky #logo {
     margin: 10px 0;
