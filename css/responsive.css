@@ -1,299 +1,103 @@
+@media (max-width: 1300px) {}
 
-@media only screen and (min-width:1024px) and (max-width:1279px){
-    .service-toolbox input[type="button"]{font-size:12px !important; background-image:none !important;}
-    .menu > li > a{margin:0 6px !important;}
-    #header .phone-no{font-size:18px !important;}
+@media (max-width: 1120px) {}
+
+@media (max-width: 992px) {
+    .hero_area {
+        height: auto;
     }
-    
-    
-    
-    @media only screen and (min-width:768px) and (max-width:1023px){
-    .call-2-action-bar .app-downloads{height:auto !important; padding:0 0 25px 0 !important;}
-    .call-2-action-bar .app-downloads .download-info{padding:0 !important;}
-    .service-toolbox input[type="button"]{font-size:13px !important; background-image:url("../images/yellow-arrow.png") !important;}
-    
-    #main-slider .carousel .carousel-content {margin-top:50px !important;  padding:0 30px !important;}
-    .testimonial-center{ width:90% !important;}
-    .carousel-control.right{right:-9% !important;}
-    
-    .modal-dialog {width:100% !important;}
-    .modal-content {padding:30px !important;}
-    
-    .call-2-action-bar2 .download-btns{width:100%; text-align:center; float:left !important; padding:0 0 20px 0 !important;}
-    .call-2-action-bar2 .download-btns b{margin:0 0 10px 0 !important;}
-    .call-2-action-bar2 .download-btns a.ios-btn{float:none !important; margin:0 10px 15px 0 !important;}
-    .call-2-action-bar2 .download-btns a.android-btn{float:none !important; margin:0 0 15px 0 !important}
-    
-    .menu > li > a {
-            margin:0 6px !important;
-            font-size:13px !important;
-        }
-    #header .phone-no{font-size:18px !important;}
-    .col-foot{margin:0 0 30px 0;}
-    #mobile-menu ul li span{display:none !important;}
-    .log-in-details .register-btns a.clt-btn{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .register-btns a.pro-btn{width:100% !important; margin:0 0 10px !important;}
-    
-    .services .individual-services-booking{height:auto !important; padding:40px 0 !important;}
-    .services .individual-services-booking .main-icon{margin:0 auto !important;}
+
+    .header_section .main_nav {
+        flex: 1;
     }
-    
-    
-    
-    @media only screen and (min-width:640px) and (max-width:767px){
-    .call-2-action-bar .app-downloads{height:auto !important; padding:0 0 25px 0 !important; text-align:center !important;}
-    .call-2-action-bar .app-downloads .download-info{padding:0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns{text-align:center;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.ios-btn{float:none !important; display:inline-block !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.android-btn{float:none !important; display:inline-block !important;}
-    .service-toolbox select{width:100% !important;}
-    .service-toolbox input[type="text"]{width:100% !important;}
-    .service-toolbox input[type="button"]{width:100% !important;}
-    .service-toolbox .dropdownBox3{background:#fff url(../images/drop-arrow.png) no-repeat 98.5% 4px !important;}
-    
-    .btn-group, .btn-group-vertical{width:100% !important; margin:0 0 0 0 !important;}
-    
-    #main-slider .carousel .carousel-content {margin-top:50px !important;  padding:0 30px !important;}
-    .testimonial-center{ width:90% !important;}
-    .carousel-control.right{right:-9% !important;}
-    
-    .modal-dialog {width: 90% !important;}
-    .modal-body input[type="email"]{width:100% !important;}
-    
-    .call-2-action-bar2 .mob-dev{float:none !important; width:100%; text-align:center; margin:15px 0 0 0 !important;}
-    .call-2-action-bar2 .download-info{padding:0 !important; float:none !important; width:100% !important; text-align:center;}
-    .call-2-action-bar2 .download-btns{width:100%; text-align:center; float:left !important; padding:0 0 20px 0 !important;}
-    .call-2-action-bar2 .download-btns b{margin:0 0 10px 0 !important;}
-    .call-2-action-bar2 .download-btns a.ios-btn{float:none !important; margin:0 10px 15px 0 !important;}
-    .call-2-action-bar2 .download-btns a.android-btn{float:none !important; margin:0 0 15px 0 !important}
-    
-    .col-foot{margin:0 0 30px 0;}
-    .app-ad{width:50%;}
-    footer .footer-bottom ul.footer-nav{float:left !important;}
-    ul#mobile-menu ul li.dropdown a span{display:none !important;}
-    
-    .log-in-details .body-login .text-box{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .text-box2{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .submit{margin:0 0 10px !important;}
-    .log-in-details .facebook-btn{width:100% !important;}
-    .log-in-details .register-btns a.clt-btn{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .register-btns a.pro-btn{width:100% !important; margin:0 0 10px !important;}
-    
-    .services .individual-services-booking{height:auto !important; padding:40px 0 !important;}
-    .services .individual-services-booking .main-icon{margin:0 auto !important;}
-    .service-toolbox-individual select{width:100% !important;}
-    .service-toolbox-individual input[type="text"]{width:100% !important;}
-    .service-toolbox-individual input[type="button"]{margin:0 auto 15px auto !important; width:90% !important;}
+
+    #navbarSupportedContent {
+        margin-top: 15px;
     }
-    
-    
-    
-    @media only screen and (min-width:480px) and (max-width:639px){
-    .call-2-action-bar .app-downloads{height:auto !important; padding:0 0 25px 0 !important; text-align:center !important;}
-    .call-2-action-bar .app-downloads .download-info{padding:0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns{text-align:center;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.ios-btn{float:none !important; display:inline-block !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.android-btn{float:none !important; display:inline-block !important;}
-    .service-toolbox select{width:100% !important;}
-    .service-toolbox input[type="text"]{width:100% !important;}
-    .service-toolbox input[type="button"]{width:100% !important;}
-    .btn-group, .btn-group-vertical{width:100% !important; margin:0 0 0 0 !important;}
-    .service-toolbox .dropdownBox3{background:#fff url(../images/drop-arrow.png) no-repeat 98.5% 4px !important;}
-    
-    #main-slider .carousel .carousel-content {margin-top:40px !important;  padding:0 30px !important;}
-    #main-slider .carousel .slide-margin .carousel-content b{margin: 0px 0 30px 0 !important;}
-    #main-slider .carousel .slide-margin .carousel-content h1{font-size: 30px !important;}
-    #main-slider .carousel .slide-margin .carousel-content h2{font-size: 22px !important;}
-    
-    .benefits-section .benefit-single span{width:100% !important; height:auto !important; float:none !important; text-align:center;}
-    .benefits-section .benefit-single b{width:100% !important; float:none !important; text-align:center !important;}
-    
-    .testimonial-center{ width:90% !important;}
-    .carousel-control.right{right:-9% !important;}
-    .modal-dialog {width: 100% !important; padding:30px !important;}
-    .modal-content{padding:10px !important;}
-    .modal-body input[type="email"]{width:100% !important;}
-    
-    .call-2-action-bar2 .mob-dev{float:none !important; width:100%; text-align:center; margin:15px 0 0 0 !important;}
-    .call-2-action-bar2 .download-info{padding:0 !important; float:none !important; width:100% !important; text-align:center;}
-    .call-2-action-bar2 .download-btns{width:100%; text-align:center; float:left !important; padding:0 0 20px 0 !important;}
-    .call-2-action-bar2 .download-btns b{margin:0 0 10px 0 !important;}
-    .call-2-action-bar2 .download-btns a.ios-btn{float:none !important; margin:0 10px 15px 0 !important;}
-    .call-2-action-bar2 .download-btns a.android-btn{float:none !important; margin:0 0 15px 0 !important}
-    
-    .col-foot{margin:0 0 30px 0;}
-    .app-ad{width:90%;}
-    
-    .log-in-details .body-login .text-box{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .text-box2{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .submit{margin:0 0 10px !important;}
-    .log-in-details .facebook-btn{width:100% !important;}
-    .log-in-details .register-btns a.clt-btn{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .register-btns a.pro-btn{width:100% !important; margin:0 0 10px !important;}
-    
-    .services .individual-services-booking{height:auto !important; padding:40px 0 !important;}
-    .services .individual-services-booking .main-icon{margin:0 auto !important;}
-    .service-toolbox-individual select{width:100% !important;}
-    .service-toolbox-individual input[type="text"]{width:100% !important;}
-    .service-toolbox-individual input[type="button"]{margin:0 auto 15px auto !important; width:90% !important;}
+
+    .slider_section {
+        padding-top: 45px;
     }
-    
-    
-    
-    @media only screen and (min-width:320px) and (max-width:479px){
-    .call-2-action-bar .app-downloads{height:400px !important; padding:25px 0 !important; text-align:center !important;}
-    .call-2-action-bar .app-downloads .mob-dev{margin:0 0 0 0 !important;}
-    .call-2-action-bar .app-downloads .download-info{padding:0 !important; margin:10px 0 0 0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns{text-align:center;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.ios-btn{float:none !important; display:inline-block !important; margin:0 0 10px 0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.android-btn{float:none !important; display:inline-block !important;  margin:0 0 10px 0 !important;}
-    .service-toolbox select{width:100% !important;}
-    .service-toolbox input[type="text"]{width:100% !important;}
-    .service-toolbox input[type="button"]{width:100% !important;}
-    .btn-group, .btn-group-vertical{width:100% !important; margin:0 0 0 0 !important;}
-    .service-toolbox .dropdownBox3{background:#fff url(../images/drop-arrow.png) no-repeat 98.5% 4px !important;}
-    
-    .benefits-section .benefit-single span{width:100% !important; height:auto !important; float:none !important; text-align:center;}
-    .benefits-section .benefit-single b{width:100% !important; float:none !important; text-align:center !important;}
-    
-    #main-slider .carousel .carousel-content {margin-top:50px !important;  padding:0 30px !important;}
-    #main-slider .carousel .slide-margin .carousel-content b{margin: 0px 0 20px 0 !important;}
-    #main-slider .carousel .slide-margin .carousel-content h1{font-size: 26px !important;}
-    #main-slider .carousel .slide-margin .carousel-content h2{font-size: 22px !important; line-height:24px !important;}
-    .testimonial-center{ width:90% !important;}
-    .carousel-control.right{right:-9% !important;}
-    
-    .steps .indicators{width:280px !important;}
-    .steps .indicators ul li{margin:0 20px 0 0 !important;}
-    .steps .indicators ul li:last-child{margin:0 0 0 0 !important;}
-    .steps .indicators ul li a{width:40px !important;height:40px !important; line-height:32px !important; font-size:18px !important;}
-    .steps .steps-content{width:300px !important; height:300px !important; padding:25px !important;}
-    .steps .steps-content .original-content{width:250px !important; height:250px !important;}
-    .steps .steps-content .original-content b img.stepimg-01{width:40%;}
-    .steps .steps-content .original-content b img.stepimg-02{width:52%;}
-    .steps .steps-content .original-content b img.stepimg-03{width:auto;}
-    .steps .steps-content .original-content b img.stepimg-04{width:70%;}
-    .steps .steps-content .original-content b img.stepimg-05{width:auto;}
-    
-    .steps-pro{padding:30px 0 !important;}
-    .steps-pro .steps-content{width:300px !important; height:300px !important; padding:25px !important;}
-    .steps-pro .steps-content .original-content{width:250px !important; height:250px !important;}
-    .steps-pro .steps-content .original-content b img.stepimg-01{width:40%;}
-    .steps-pro .steps-content .original-content b img.stepimg-02{width:52%;}
-    .steps-pro .steps-content .original-content b img.stepimg-03{width:auto;}
-    .steps-pro .steps-content .original-content b img.stepimg-04{width:70%;}
-    .steps-pro .steps-content .original-content b img.stepimg-05{width:auto;}
-    
-    .modal-dialog {width: 100% !important; padding:30px !important;}
-    .modal-content{padding:10px !important;}
-    .modal-body input[type="email"]{width:100% !important;}
-    
-    .call-2-action-bar2 .mob-dev{float:none !important; width:100%; text-align:center; margin:15px 0 0 0 !important;}
-    .call-2-action-bar2 .download-info{padding:0 !important; float:none !important; width:100% !important; text-align:center;}
-    .call-2-action-bar2 .download-btns{width:100%; text-align:center; float:left !important; padding:0 0 20px 0 !important;}
-    .call-2-action-bar2 .download-btns b{margin:0 0 10px 0 !important;}
-    .call-2-action-bar2 .download-btns a.ios-btn{float:none !important; margin:0 10px 15px 0 !important;}
-    .call-2-action-bar2 .download-btns a.android-btn{float:none !important; margin:0 0 15px 0 !important}
-    
-    .col-foot{margin:0 0 30px 0;}
-    .app-ad{width:90%;}
-    footer .footer-top{padding:50px 0 30px 0 !important;}
-    footer .footer-bottom ul.footer-nav{width:100%;}
-    footer .footer-bottom ul.footer-nav li{width:100%; margin:0 0 15px 0 !important;}
-    
-    .log-in-details .body-login .text-box{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .text-box2{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .submit{margin:0 0 10px !important;}
-    .log-in-details .facebook-btn{width:100% !important;}
-    .log-in-details .register-btns a.clt-btn{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .register-btns a.pro-btn{width:100% !important; margin:0 0 10px !important;}
-    
-    .services .individual-services-booking{height:auto !important; padding:40px 0 !important;}
-    .services .individual-services-booking .main-icon{margin:0 auto !important;}
-    .service-toolbox-individual select{width:100% !important;}
-    .service-toolbox-individual input[type="text"]{width:100% !important;}
-    .service-toolbox-individual input[type="button"]{margin:0 auto 15px auto !important; width:90% !important;}
-    
+
+    .feature_section .feature_container .box {
+        padding: 30px 15px;
     }
-    
-    
-    
-    @media only screen and (max-width:320px){
-    .call-2-action-bar .app-downloads{height:400px !important;  padding:25px 0 !important; text-align:center !important;}
-    .call-2-action-bar .app-downloads .mob-dev{margin:0 0 0 0 !important;}
-    .call-2-action-bar .app-downloads .download-info{padding:0 !important; margin:10px 0 0 0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns{text-align:center;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.ios-btn{float:none !important; display:inline-block !important; margin:0 0 10px 0 !important;}
-    .call-2-action-bar .app-downloads .download-info .download-btns a.android-btn{float:none !important; display:inline-block !important;  margin:0 0 10px 0 !important;}
-    
-    .benefits-section .benefit-single span{width:100% !important; height:auto !important; float:none !important; text-align:center;}
-    .benefits-section .benefit-single b{width:100% !important; float:none !important; text-align:center !important;}
-    
-    .service-toolbox select{width:100% !important;}
-    .service-toolbox input[type="text"]{width:100% !important;}
-    .service-toolbox input[type="button"]{width:100% !important;}
-    .btn-group, .btn-group-vertical{width:100% !important; margin:0 0 0 0 !important;}
-    .service-toolbox .dropdownBox3{background:#fff url(../images/drop-arrow.png) no-repeat 98.5% 4px !important;}
-    
-    #main-slider .carousel .carousel-content {margin-top:50px !important;  padding:0 30px !important;}
-    #main-slider .carousel .slide-margin .carousel-content b{margin: 0px 0 20px 0 !important;}
-    #main-slider .carousel .slide-margin .carousel-content h1{font-size: 26px !important;}
-    #main-slider .carousel .slide-margin .carousel-content h2{font-size: 22px !important; line-height:24px !important;}
-    
-    .steps .indicators{width:280px !important;}
-    .steps .indicators ul li{margin:0 20px 0 0 !important;}
-    .steps .indicators ul li:last-child{margin:0 0 0 0 !important;}
-    .steps .indicators ul li a{width:40px !important;height:40px !important; line-height:32px !important; font-size:18px !important;}
-    .steps .steps-content{width:300px !important; height:300px !important; padding:25px !important;}
-    .steps .steps-content .original-content{width:250px !important; height:250px !important;}
-    .steps .steps-content .original-content b img.stepimg-01{width:40%;}
-    .steps .steps-content .original-content b img.stepimg-02{width:52%;}
-    .steps .steps-content .original-content b img.stepimg-03{width:auto;}
-    .steps .steps-content .original-content b img.stepimg-04{width:70%;}
-    .steps .steps-content .original-content b img.stepimg-05{width:auto;}
-    
-    .steps-pro{padding:30px 0 !important;}
-    .steps-pro .steps-content{width:300px !important; height:300px !important; padding:25px !important;}
-    .steps-pro .steps-content .original-content{width:250px !important; height:250px !important;}
-    .steps-pro .steps-content .original-content b img.stepimg-01{width:40%;}
-    .steps-pro .steps-content .original-content b img.stepimg-02{width:52%;}
-    .steps-pro .steps-content .original-content b img.stepimg-03{width:auto;}
-    .steps-pro .steps-content .original-content b img.stepimg-04{width:70%;}
-    .steps-pro .steps-content .original-content b img.stepimg-05{width:auto;}
-    
-    .testimonial-center{ width:90% !important;}
-    .carousel-control.right{right:-9% !important;}
-    .modal-dialog {width: 100% !important; padding:30px !important;}
-    .modal-content{padding:10px !important;}
-    .modal-body input[type="email"]{width:100% !important;}
-    
-    .call-2-action-bar2 .mob-dev{float:none !important; width:100%; text-align:center; margin:15px 0 0 0 !important;}
-    .call-2-action-bar2 .download-info{padding:0 !important; float:none !important; width:100% !important; text-align:center;}
-    .call-2-action-bar2 .download-btns{width:100%; text-align:center; float:left !important; padding:0 0 20px 0 !important;}
-    .call-2-action-bar2 .download-btns b{margin:0 0 10px 0 !important;}
-    .call-2-action-bar2 .download-btns a.ios-btn{float:none !important; margin:0 10px 15px 0 !important;}
-    .call-2-action-bar2 .download-btns a.android-btn{float:none !important; margin:0 0 15px 0 !important}
-    
-    .col-foot{margin:0 0 30px 0;}
-    .app-ad{width:90%;}
-    footer .footer-top{padding:30px 0 !important;}
-    footer .footer-bottom .copyright{text-align:center;}
-    footer .footer-bottom ul.footer-nav{width:100%;}
-    footer .footer-bottom ul.footer-nav li{width:100%; margin:0 0 15px 0 !important;}
-    
-    .log-in-details .body-login .text-box{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .text-box2{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .body-login .submit{margin:0 0 10px !important;}
-    .log-in-details .facebook-btn{width:100% !important;}
-    .log-in-details .register-btns a.clt-btn{width:100% !important; margin:0 0 10px !important;}
-    .log-in-details .register-btns a.pro-btn{width:100% !important; margin:0 0 10px !important;}
-    
-    .services .individual-services-booking{height:auto !important; padding:40px 0 !important;}
-    .services .individual-services-booking .main-icon{margin:0 auto !important;}
-    .service-toolbox-individual select{width:100% !important;}
-    .service-toolbox-individual input[type="text"]{width:100% !important;}
-    .service-toolbox-individual input[type="button"]{margin:0 auto 15px auto !important; width:90% !important;}
-    
+
+    .feature_section .feature_container .box .img-box {
+        width: 75px;
     }
-    
-    
+
+
+    .feature_section {
+        transform: none;
+        padding: 90px 0;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .layout_padding {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .layout_padding-top {
+        padding-top: 90px;
+    }
+
+    .layout_padding-bottom {
+        padding-bottom: 90px;
+    }
+
+    .slider_section .detail-box {
+        padding-bottom: 45px;
+    }
+
+    .feature_section .feature_container {
+        flex-direction: column;
+    }
+
+    .feature_section .feature_container .box {
+        padding: 30px 15px;
+    }
+
+    .feature_section .feature_container .box:not(:nth-last-child(1)) {
+        margin-bottom: 15px;
+    }
+
+    .about_section .detail-box {
+        margin-bottom: 45px;
+    }
+
+
+    .professional_section .img-box {
+        display: none;
+    }
+
+    .contact_section form {
+        margin-bottom: 45px;
+    }
+
+    .info_section .info_items::before {
+        width: 1px;
+        height: 90%;
+        top: 25px;
+    }
+
+}
+
+@media (max-width: 576px) {}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 400px) {}
+
+@media (max-width: 360px) {}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+
+}
